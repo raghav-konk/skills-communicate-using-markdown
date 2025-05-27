@@ -8,3 +8,6 @@ Initialized empty Git repository.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Task1 completed
+- [ ] Task2 yet to be completed
+- [ ] Introduce myself to the world
